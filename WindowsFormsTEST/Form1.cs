@@ -11,7 +11,7 @@ namespace WindowsFormsTEST
         {
             InitializeComponent();
             mrButton = new Button();
-            mrButton.Text = "Надпись вот тут изменилась!";
+            mrButton.Text = "Надпись вот тут изменилась 2 раз уже!!!";
             mrButton.Top = 100;
             mrButton.Left = 100;
             mrButton.Height = 50;
